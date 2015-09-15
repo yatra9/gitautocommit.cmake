@@ -1,0 +1,8 @@
+
+
+#define COMPILER "@CMAKE_C_COMPILER@"
+
+/** Git commit for this source
+ * these are processd at compile time */
+#define GIT_COMMIT_SHA "@GIT_AUTOCOMMIT_COMMIT_SHA@"
+
